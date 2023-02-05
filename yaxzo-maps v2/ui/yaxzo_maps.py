@@ -54,7 +54,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("Yaxzo.Maps", "Yaxzo.Maps"))
         self.map_label.setText(_translate("MainWindow", "Здесь будет ваша карта"))
         self.info_label.setText(_translate("MainWindow", "Что отобразить на карте?"))
         self.search_button.setText(_translate("MainWindow", "Искать"))
