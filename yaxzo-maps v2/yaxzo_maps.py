@@ -27,7 +27,7 @@ class MapWindow(QMainWindow):
         }
 
         self.geo_params = {
-            "apikey": "40d1649f-0493-4b70-98ba-98533de7710b",
+            "apikey": # свой апи ключ геокодера,
             "format": "json"
         }
 
